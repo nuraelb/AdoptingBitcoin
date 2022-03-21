@@ -19,7 +19,11 @@ Foundational marketing capabilities. Shared skills and practices across the mark
 Segment-driven marketing. Focused strategies to engage priority audience groups, or “segments.”
 Segment-driven marketing objectives:
 
-| Build the developer community | 500 Github stars by end of Q2 2022 | * "Shiny Github": Content and design of Github repos is on part with the best in the open source community Project board * Content marketing: Produce and distribute compelling developer content, including blog posts, papers and videos Developer content calendar * Developer events: Meaningful participation in relevant in-person and remote hack events of 2022 Project board
+| Build the developer community | 500 Github stars by end of Q2 2022 |
+|:------------------------------|:------------------------------------|
+|* "Shiny Github": Content and design of Github repos is on part with the best in the open source community Project board * |
+| Content marketing: Produce and distribute compelling developer content, including blog posts, papers and videos Developer content calendar | 
+| Developer events: Meaningful participation in relevant in-person and remote hack events of 2022 Project board |
 
 
 2) Fill the prospect pipeline
