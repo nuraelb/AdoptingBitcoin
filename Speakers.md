@@ -1,18 +1,24 @@
 # Speaker
 
-## Why you should apply as a speaker? 
+## CONTRIBUTE AND SUPPORT BITCOIN ADOPTION 
+- 
 
+## SPEAKERS QUALIFICATIONS
+- 
 
-## What makes you qualify as a speaker? 
+## STAGES INFORMATION 
 
+- ECON:
+- DEV:
+- SOLUTION: 
+- WORKSHOP:
 
-## How to be a speaker? 
-
+ 
+## SUBMIT YOUR PROPOSAL
 - You can submit a proposal online or you can approach us directly.
 - You can be approached by us if any of the Adopting Bitcoin organizers identified you as an awesome builder!
 
-## How do we evaluate speakers submissions? 
-
+## SPEAKER SUBMISSIONS EVALUATION 
 All speaker submissions will be evaluated and approved by the conference's advisors:
 
 - Moritz Weitersheim
@@ -22,9 +28,10 @@ All speaker submissions will be evaluated and approved by the conference's advis
 - Aaron Van Wirdum
 - Vlad Costea
 
-## Speakers submissions timeline:
+
+## SPEAKERS SUBMISSIONS TIMELINE:
 
 - Our team meeting will happen monthly at first then weekly as we get closer to the event. 
 - you will hear from us within a month of your application from January to August 
 - You will hear from with within a week of your application from August to September 
-- Will stop accepting speakers starting September 1st 2023 
+- We will stop accepting speakers starting September 1st 2023 
