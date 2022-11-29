@@ -43,7 +43,6 @@ Be the driver of conversations, education, and research.
 - 100 responded to the survey 
 - 92% would attend again 
 
---- 
 
 [^1]:The event is nonprofit, and all the proceeds will be donated to a local initiative aiming to increase the understanding of Bitcoin and lightning amongst Salvadorans.
 
