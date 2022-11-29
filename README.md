@@ -23,8 +23,6 @@ An annual non-profit[^1] event focused on Lightning development, and Bitcoin ado
 
 Be the driver of conversations, education, and research. 
 
-## Objectives of Adopting Bitcoin 2023 
-
 ## Past Events Metrics 
 
 ### Key Metrics from Adopting Bitcoin 2022 
