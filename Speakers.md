@@ -26,8 +26,8 @@ In addition to the main stages, the participants will be able to participate in 
 ## SPEAKER SUBMISSIONS EVALUATION 
 All speaker submissions will be evaluated and approved by the conference's advisors:
 
-- Moritz Weitersheim
-- Jeff Galas 
+- Moritz Wietersheim
+- Jeff Gallas 
 - Giacomo Zucco
 - Alexandre Bussutil 
 - Aaron Van Wirdum
