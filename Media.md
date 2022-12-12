@@ -15,14 +15,14 @@ https://bitcoinmagazine.com/culture/lessons-from-adoption-bitcoin-el-salvador
 by Shinobi
 https://bitcoinmagazine.com/culture/reality-of-bukeles-bitcoin-el-salvador
 
-### Der Kytpo-King
+### Der Kytpo-King (German)
 by Benjamin Daniel
 https://www.zdf.de/politik/auslandsjournal/der-krypto-king-100.html
 
-### Adopting Bitcoin Recap
+### Adopting Bitcoin Recap (German)
 by Nodesignal Podcast
 https://nodesignal.space/2022/11/23/nodesignal-spezial-e09-adopting-bitcoin-recap/
 
-### Bitcoin in El Salvador: Top oder Flop?
+### Bitcoin in El Salvador: Top oder Flop? (German)
 by Bitcoin, Fiat & Rock’n’Roll
 https://paymentandbanking.com/bitcoin-in-el-salvador-top-oder-flop/
