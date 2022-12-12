@@ -22,3 +22,7 @@ https://www.zdf.de/politik/auslandsjournal/der-krypto-king-100.html
 ### Adopting Bitcoin Recap
 by Nodesignal Podcast
 https://nodesignal.space/2022/11/23/nodesignal-spezial-e09-adopting-bitcoin-recap/
+
+### Bitcoin in El Salvador: Top oder Flop?
+by Bitcoin, Fiat & Rock’n’Roll
+https://paymentandbanking.com/bitcoin-in-el-salvador-top-oder-flop/
