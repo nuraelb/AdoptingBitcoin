@@ -1,3 +1,4 @@
+## 2022
 ### El Salvador is Adopting Bitcoin 
 by Walker
 https://www.btctimes.com/news/el-salvador-is-adopting-bitcoin
