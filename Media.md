@@ -26,3 +26,7 @@ https://nodesignal.space/2022/11/23/nodesignal-spezial-e09-adopting-bitcoin-reca
 ### Bitcoin in El Salvador: Top oder Flop? (German)
 by Bitcoin, Fiat & Rock’n’Roll
 https://paymentandbanking.com/bitcoin-in-el-salvador-top-oder-flop/
+
+### Bitcoineros (German)
+by Maximilian Sippenauer and Anna Elena Knrerich for Bayerischer Rundfunk
+https://www.ardmediathek.de/video/doku-und-reportage/bitcoineros-das-digitale-gold-oder-doku/br-fernsehen/Y3JpZDovL2JyLmRlL3ZpZGVvLzI1ZmJkNjA5LWEzNjctNGQ3Zi05YWNiLTQzZjNhYzZlYTU0Yw
